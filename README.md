@@ -1,1 +1,2 @@
-# newtrex
+# trexgame
+trex game
